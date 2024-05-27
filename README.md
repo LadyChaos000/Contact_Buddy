@@ -1,6 +1,6 @@
 # Contact Buddy
 
-Contact Buddy is a Flutter application designed to manage your contacts efficiently. With Contact Buddy, you can add, view, update, search, and delete contacts with ease. This README file provides an overview of the application's features, how to set it up, and how to contribute to its development.
+Contact Buddy is a Flutter application designed to manage your contacts efficiently. With Contact Buddy, you can add, view, update, search, and delete contacts with ease. This README file provides an overview of the application's features, and how to set it up.
 
 ## Features
 
