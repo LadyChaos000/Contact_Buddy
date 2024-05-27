@@ -17,7 +17,7 @@ To run Contact Buddy on your local machine, follow these steps:
 
 1. **Clone the Repository**: 
    ```
-   git clone https://github.com/your-username/contact-buddy.git
+   git clone https://github.com/LadyChaos000/contact-buddy.git
    ```
 
 2. **Navigate to the Project Directory**:
